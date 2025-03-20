@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Pinal_College\\MinutesOfMeeting_App\\MeetingAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22F31282-575B-4E60-AEA0-6C849AA8DCB4}|MeetingAPI.csproj|f:\\pinal_college\\minutesofmeeting_app\\meetingapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22F31282-575B-4E60-AEA0-6C849AA8DCB4}|MeetingAPI.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F31282-575B-4E60-AEA0-6C849AA8DCB4}|MeetingAPI.csproj|f:\\pinal_college\\minutesofmeeting_app\\meetingapi\\controllers\\meetingtypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22F31282-575B-4E60-AEA0-6C849AA8DCB4}|MeetingAPI.csproj|solutionrelative:controllers\\meetingtypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F31282-575B-4E60-AEA0-6C849AA8DCB4}|MeetingAPI.csproj|f:\\pinal_college\\minutesofmeeting_app\\meetingapi\\controllers\\meetingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22F31282-575B-4E60-AEA0-6C849AA8DCB4}|MeetingAPI.csproj|solutionrelative:controllers\\meetingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F31282-575B-4E60-AEA0-6C849AA8DCB4}|MeetingAPI.csproj|f:\\pinal_college\\minutesofmeeting_app\\meetingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22F31282-575B-4E60-AEA0-6C849AA8DCB4}|MeetingAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F31282-575B-4E60-AEA0-6C849AA8DCB4}|MeetingAPI.csproj|f:\\pinal_college\\minutesofmeeting_app\\meetingapi\\repository\\meetingtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22F31282-575B-4E60-AEA0-6C849AA8DCB4}|MeetingAPI.csproj|solutionrelative:repository\\meetingtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F31282-575B-4E60-AEA0-6C849AA8DCB4}|MeetingAPI.csproj|f:\\pinal_college\\minutesofmeeting_app\\meetingapi\\models\\meetingtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22F31282-575B-4E60-AEA0-6C849AA8DCB4}|MeetingAPI.csproj|solutionrelative:models\\meetingtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F31282-575B-4E60-AEA0-6C849AA8DCB4}|MeetingAPI.csproj|f:\\pinal_college\\minutesofmeeting_app\\meetingapi\\data\\meetingmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22F31282-575B-4E60-AEA0-6C849AA8DCB4}|MeetingAPI.csproj|solutionrelative:data\\meetingmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F31282-575B-4E60-AEA0-6C849AA8DCB4}|MeetingAPI.csproj|f:\\pinal_college\\minutesofmeeting_app\\meetingapi\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22F31282-575B-4E60-AEA0-6C849AA8DCB4}|MeetingAPI.csproj|solutionrelative:repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F31282-575B-4E60-AEA0-6C849AA8DCB4}|MeetingAPI.csproj|f:\\pinal_college\\minutesofmeeting_app\\meetingapi\\repository\\meetingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22F31282-575B-4E60-AEA0-6C849AA8DCB4}|MeetingAPI.csproj|solutionrelative:repository\\meetingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F31282-575B-4E60-AEA0-6C849AA8DCB4}|MeetingAPI.csproj|f:\\pinal_college\\minutesofmeeting_app\\meetingapi\\models\\meeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22F31282-575B-4E60-AEA0-6C849AA8DCB4}|MeetingAPI.csproj|solutionrelative:models\\meeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F31282-575B-4E60-AEA0-6C849AA8DCB4}|MeetingAPI.csproj|f:\\pinal_college\\minutesofmeeting_app\\meetingapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22F31282-575B-4E60-AEA0-6C849AA8DCB4}|MeetingAPI.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MeetingTypeController.cs",
+              "DocumentMoniker": "F:\\Pinal_College\\MinutesOfMeeting_App\\MeetingAPI\\Controllers\\MeetingTypeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MeetingTypeController.cs",
+              "ToolTip": "F:\\Pinal_College\\MinutesOfMeeting_App\\MeetingAPI\\Controllers\\MeetingTypeController.cs",
+              "RelativeToolTip": "Controllers\\MeetingTypeController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAowF8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:17:03.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MeetingType.cs",
+              "DocumentMoniker": "F:\\Pinal_College\\MinutesOfMeeting_App\\MeetingAPI\\Models\\MeetingType.cs",
+              "RelativeDocumentMoniker": "Models\\MeetingType.cs",
+              "ToolTip": "F:\\Pinal_College\\MinutesOfMeeting_App\\MeetingAPI\\Models\\MeetingType.cs",
+              "RelativeToolTip": "Models\\MeetingType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:14:59.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MeetingTypeRepository.cs",
+              "DocumentMoniker": "F:\\Pinal_College\\MinutesOfMeeting_App\\MeetingAPI\\Repository\\MeetingTypeRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\MeetingTypeRepository.cs",
+              "ToolTip": "F:\\Pinal_College\\MinutesOfMeeting_App\\MeetingAPI\\Repository\\MeetingTypeRepository.cs",
+              "RelativeToolTip": "Repository\\MeetingTypeRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwC8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:07:29.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MeetingController.cs",
+              "DocumentMoniker": "F:\\Pinal_College\\MinutesOfMeeting_App\\MeetingAPI\\Controllers\\MeetingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MeetingController.cs",
+              "ToolTip": "F:\\Pinal_College\\MinutesOfMeeting_App\\MeetingAPI\\Controllers\\MeetingController.cs",
+              "RelativeToolTip": "Controllers\\MeetingController.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAAAHYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T17:14:08.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MeetingRepository.cs",
+              "DocumentMoniker": "F:\\Pinal_College\\MinutesOfMeeting_App\\MeetingAPI\\Repository\\MeetingRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\MeetingRepository.cs",
+              "ToolTip": "F:\\Pinal_College\\MinutesOfMeeting_App\\MeetingAPI\\Repository\\MeetingRepository.cs",
+              "RelativeToolTip": "Repository\\MeetingRepository.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAswEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T17:13:47.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Pinal_College\\MinutesOfMeeting_App\\MeetingAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\Pinal_College\\MinutesOfMeeting_App\\MeetingAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T17:32:48.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "F:\\Pinal_College\\MinutesOfMeeting_App\\MeetingAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "F:\\Pinal_College\\MinutesOfMeeting_App\\MeetingAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAowF4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T17:25:51.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MeetingManagementContext.cs",
+              "DocumentMoniker": "F:\\Pinal_College\\MinutesOfMeeting_App\\MeetingAPI\\Data\\MeetingManagementContext.cs",
+              "RelativeDocumentMoniker": "Data\\MeetingManagementContext.cs",
+              "ToolTip": "F:\\Pinal_College\\MinutesOfMeeting_App\\MeetingAPI\\Data\\MeetingManagementContext.cs",
+              "RelativeToolTip": "Data\\MeetingManagementContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswEgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T17:12:28.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Meeting.cs",
+              "DocumentMoniker": "F:\\Pinal_College\\MinutesOfMeeting_App\\MeetingAPI\\Models\\Meeting.cs",
+              "RelativeDocumentMoniker": "Models\\Meeting.cs",
+              "ToolTip": "F:\\Pinal_College\\MinutesOfMeeting_App\\MeetingAPI\\Models\\Meeting.cs",
+              "RelativeToolTip": "Models\\Meeting.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA3wBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T17:12:09.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "F:\\Pinal_College\\MinutesOfMeeting_App\\MeetingAPI\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\UserRepository.cs",
+              "ToolTip": "F:\\Pinal_College\\MinutesOfMeeting_App\\MeetingAPI\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Repository\\UserRepository.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAswEUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T17:02:41.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\Pinal_College\\MinutesOfMeeting_App\\MeetingAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "F:\\Pinal_College\\MinutesOfMeeting_App\\MeetingAPI\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T16:34:26.119Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
